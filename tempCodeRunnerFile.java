@@ -1,0 +1,1 @@
+Scanner sc=sc.nextInt();
