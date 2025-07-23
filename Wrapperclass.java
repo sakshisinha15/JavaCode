@@ -5,5 +5,9 @@ class Wrapperclass {
         int y = x1.intValue();
         System.out.println(x);
         System.out.println(y);
+        Double d = Double.valueOf("56");
+        double z = d.doubleValue();
+        System.out.println(z);
     }
 }
+// in double only 1 argument is passed in valueOf function
