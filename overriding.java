@@ -13,6 +13,6 @@ class hel0 extends hel {
 public class overriding {
     public static void main(String[] args) {
         hel0 p = new hel0();
-        p.f1();
+        p.f1(); 
     }
 }

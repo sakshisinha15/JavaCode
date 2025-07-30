@@ -38,6 +38,6 @@ public class contruct {
         Demo d = new Demo(5, 6);
         Demo d1 = new Demo(10, 5);
         Demo d2 = new Demo();
-        Demo d3 = new Demo(6);
+        Demo d3 = new Demo(6); 
     }
 }
