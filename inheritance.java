@@ -10,7 +10,7 @@ class Nokia {
 
     void f1() {
         System.out.println("Parent class function 1  executed");
-    }
+    } 
 
     void f2() {
         System.out.println("Parent class function 2 executed");
